@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1636495383 source:d:\tareas, trabajos\uni\6to semestre\seminario de traductores de lenguajes 2\actividades\actividad 4\calculadora\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cctype>
+	<cstdio>
+	<cstdlib>
+	<string.h>
+	<math.h>
+	<windows.h>
+
